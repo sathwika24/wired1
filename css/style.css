@@ -3,17 +3,25 @@
     display: block;
 }
 
-
 @media  (min-width: 576px) and (max-width: 767.98px) {
     
-
+   
+    
    
 
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) { 
     
-
+    .bor{
+        border:1px solid black;
+    }
+    .vertical-line{
+        border-right: 1px solid black ;
+        display:block;
+        height: 55px;
+    }
+   
    
 
 }
@@ -27,6 +35,14 @@
           padding-left: 100px;
           padding-right: 100px;
       } 
+      .bor{
+        border:1px solid black;
+    }
+    .vertical-line{
+        border-right: 1px solid black ;
+        display:block;
+        height: 55px;
+    }
    
 }
 
@@ -39,5 +55,13 @@
     padding-left: 100px;
     padding-right: 100px;
 } 
+.bor{
+    border:1px solid black;
+}
+.vertical-line{
+    border-right: 1px solid black ;
+    display:block;
+    height: 55px;
+}
     
  }
