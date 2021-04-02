@@ -1,0 +1,43 @@
+.line{
+    border-bottom: 1px solid black;
+    display: block;
+}
+
+
+@media  (min-width: 576px) and (max-width: 767.98px) {
+    
+
+   
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    
+
+   
+
+}
+
+@media (min-width: 992px) and  (max-width: 1199.98px) {
+    .col1{
+        border-top:3px solid black;
+        box-shadow:2px 4px 6px #888888;
+      }
+      .pm{
+          padding-left: 100px;
+          padding-right: 100px;
+      } 
+   
+}
+
+@media (min-width: 1200px) { 
+  .col1{
+    border-top:3px solid black;
+    box-shadow:2px 4px 6px #888888;
+  } 
+  .pm{
+    padding-left: 100px;
+    padding-right: 100px;
+} 
+    
+ }
